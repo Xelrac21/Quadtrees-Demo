@@ -1,0 +1,33 @@
+﻿  Puck.cpp
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(94,73): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(94,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(104,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(105,51): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(106,51): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(107,51): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\Puck.cpp(108,51): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Quadtrees.vcxproj -> C:\Users\Xelrac\Documents\GitHub\Quadtrees-Demo\Quadtrees\x64\Debug\Quadtrees.exe
